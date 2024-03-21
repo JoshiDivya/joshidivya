@@ -1,10 +1,14 @@
-<h1 align="center">Hey, I'm Divya Joshi! </h1>
+<h1 align="center">Hey, I'm Divya Joshi!</h1>
+<h3 align="center">Software Developer</h3>
+
 
 <!-- about text /////////////////////////////////////////////////////// -->
 
 ### 📌 Currently I'm...
 
- - Trying to learn new things and trying to keep myself busy.
+ - Eager to leverage my skills and knowledge to contribute to impactful projects.
+
+ - poised to embark on new challenges and collaborate with like-minded individuals to create meaningful digital solutions.
  
  - Interested in web and mobile development.
 
